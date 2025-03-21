@@ -1,0 +1,2 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+26_FMDN_baseline    	26.91     	82.76         	0.072     	3.39      	194.01  	700.81  	 250    
